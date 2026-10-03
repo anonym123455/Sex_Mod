@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Opening Cutscene","order":2,"parentId":15,"scrollX":853.6,"scrollY":499.6},
+{"id":2,"expanded":true,"name":"Flashback Apt.","order":4,"parentId":3,"scrollX":529.6,"scrollY":499.6},
+{"id":3,"expanded":false,"name":"Graves Apt.","order":3,"parentId":15,"scrollX":676.8,"scrollY":499.6},
+{"id":4,"expanded":true,"name":"Andrew/Ashley Bedroom","order":5,"parentId":15,"scrollX":798.4,"scrollY":499.6},
+{"id":5,"expanded":false,"name":"Graves Apt. Bathroom","order":6,"parentId":15,"scrollX":778.6666666666666,"scrollY":555.1111111111111},
+{"id":6,"expanded":false,"name":"Graves Apt. Parent's Room","order":7,"parentId":15,"scrollX":767.2,"scrollY":499.6},
+{"id":7,"expanded":false,"name":"Cultist's Room","order":8,"parentId":15,"scrollX":762.6666666666666,"scrollY":492},
+{"id":8,"expanded":false,"name":"Apt. Floor 4","order":10,"parentId":15,"scrollX":663.6,"scrollY":749.4},
+{"id":9,"expanded":false,"name":"Balcony","order":9,"parentId":15,"scrollX":698.4,"scrollY":499.6},
+{"id":10,"expanded":false,"name":"Warden's Room","order":11,"parentId":15,"scrollX":639.6,"scrollY":749.4},
+{"id":11,"expanded":false,"name":"Apt. Floor 3","order":12,"parentId":15,"scrollX":683.2,"scrollY":499.6},
+{"id":12,"expanded":false,"name":"Room 302","order":13,"parentId":15,"scrollX":798.2222222222222,"scrollY":555.1111111111111},
+{"id":13,"expanded":false,"name":"Apt. Floor 2","order":14,"parentId":15,"scrollX":698.4,"scrollY":499.6},
+{"id":14,"expanded":false,"name":"Outside Apt.","order":15,"parentId":15,"scrollX":663.2,"scrollY":499.6},
+{"id":15,"expanded":true,"name":"Intro Cutscene","order":1,"parentId":0,"scrollX":417.6,"scrollY":499.6},
+{"id":16,"expanded":true,"name":"Nina Flashback Start","order":16,"parentId":15,"scrollX":597.6,"scrollY":749.4},
+{"id":17,"expanded":true,"name":"Nina Flashback Outside","order":17,"parentId":15,"scrollX":897.6,"scrollY":499.6},
+{"id":18,"expanded":false,"name":"Nina Flashback Inside","order":18,"parentId":15,"scrollX":853.6,"scrollY":499.6}
+]
